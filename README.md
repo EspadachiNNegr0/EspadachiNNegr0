@@ -1,7 +1,7 @@
 
 ### Ola! Eu sou o Eduardo Ferreira👋
 
-[![Blog](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://)
+
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/eduardo_s.gomesf/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eduardo-santos-gomes-ferreira-711ba2257/)
 
@@ -9,7 +9,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EspadachiNNegr0&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
-## Tecnologia que eu uso no meu dia
+## Tecnologia que eu uso no meu dia.
 
 <div style="display: inline_block"></br>
 <img align="center" alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
