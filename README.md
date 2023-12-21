@@ -1,5 +1,5 @@
 
-### Ola! Eu sou o Eduardo Ferreira👋
+### Olá! Eu sou o Eduardo Ferreira👋
 
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/eduardo_s.gomesf/)
