@@ -22,4 +22,4 @@
 <img align="center" alt="Spring" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
 </div></br>
 
-Indivíduo altamente motivado, com experiência em design e finanças, atualmente cursando Ciência da Computação. Proficiente em PHP, Javascript, HTML/CSS, SQL, Java e Python.
+Indivíduo altamente motivado, atualmente cursando Ciência da Computação. Proficiente em Java, Javascript, HTML/CSS, SQL ePython.
